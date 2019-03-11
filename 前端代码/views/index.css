@@ -1,0 +1,15 @@
+body{
+  padding: 20px;
+}
+h1 {
+  padding: 20px 0;
+  text-align: center;
+}
+.ui.modal > div.btnConfirm {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ui.primary.button {
+  margin-right: 70px;
+}
